@@ -1,6 +1,8 @@
 # BzDL
 
-![](https://i.ibb.co/3cq8D4f/social-2029117.png)
+WATCH THIS TUTORIAL VIDEO 
+
+[![BzDL](https://img.youtube.com/vi/tGZB6NptZr8/0.jpg)](https://www.youtube.com/watch?v=tGZB6NptZr8)
 
 
 # Bzdl
