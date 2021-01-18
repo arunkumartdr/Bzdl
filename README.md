@@ -1,4 +1,4 @@
-# BzDL
+# BzDL 2.0
 
 ![](https://i.ibb.co/3cq8D4f/social-2029117.png)
 
@@ -8,7 +8,7 @@ BEST YOUTUBE VIDEO / PLAYLIST DOWNLOADER FOR WINDOWS
 
 BASED ON : youtube-dl , ffmpeg , ffprobe ,etc..
 
-# BZDL
+# BZDL 2.0
 
 WHAT YOU CAN DO WITH THIS..
 
