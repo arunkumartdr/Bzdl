@@ -1,4 +1,4 @@
-# BzDL 2.0
+# BzDL 2.0  IF RELESE 2 DOEN'T WORK USE RELEASE 1
 
 ![](https://i.ibb.co/3cq8D4f/social-2029117.png)
 
